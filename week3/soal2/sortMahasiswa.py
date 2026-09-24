@@ -8,7 +8,7 @@ acak_data(data)
 
 
 
-def sort_by(data: list=data, index: str="presensi",rev = False):
+def sort_by(data: list=data, index: str="nama",rev = False):
     maps= {
         "nim":0,
         "nama":1,
